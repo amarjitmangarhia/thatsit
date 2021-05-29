@@ -49,3 +49,10 @@ nav ul {
   height: 500px;
   width: 500px;
 }
+
+@media (max-width: 600px) {
+  .image {
+    margin: 50px 20px 50px 20px;
+    width: 100%;
+  }
+}
